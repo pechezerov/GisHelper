@@ -1,0 +1,6 @@
+@GisHelper_HostAddress = http://localhost:5019
+
+GET {{GisHelper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
