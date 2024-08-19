@@ -9,7 +9,7 @@ trigger:
 pool: 'Default'
 
 variables:
-  gisHelperImageName: 'Amz.GisHelper.App'
+  gisHelperImageName: 'GisHelper'
 
 steps:
 - task: Docker@2
